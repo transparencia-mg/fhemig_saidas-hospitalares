@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.075,
+  "time": 0.037,
   "errors": [],
   "tasks": [
     {
@@ -53,7 +53,7 @@
           "rows": 0
         }
       },
-      "time": 0.06,
+      "time": 0.03,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -15585,7 +15585,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - INTERNAÇÃO CIRÚRGICA",
+            "BLOCO CIRÚRGICO - OPME",
             "0,0"
           ],
           "rowNumber": 156,
@@ -15610,7 +15610,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - INTERNAÇÃO CIRÚRGICA",
+            "BLOCO CIRÚRGICO - OPME",
             "0,0"
           ],
           "rowNumber": 156,
@@ -15627,7 +15627,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "BLOCO CIRÚRGICO - INTERNAÇÃO CIRÚRGICA",
+          "cell": "BLOCO CIRÚRGICO - OPME",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -15635,7 +15635,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - INTERNAÇÃO CIRÚRGICA",
+            "BLOCO CIRÚRGICO - OPME",
             "0,0"
           ],
           "rowNumber": 156,
@@ -15648,7 +15648,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"BLOCO CIRÚRGICO - INTERNAÇÃO CIRÚRGICA\" in row \"157\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"BLOCO CIRÚRGICO - OPME\" in row \"157\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -15660,7 +15660,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - INTERNAÇÃO CIRÚRGICA",
+            "BLOCO CIRÚRGICO - OPME",
             "0,0"
           ],
           "rowNumber": 156,
@@ -15685,7 +15685,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - OPME",
+            "BLOCO CIRÚRGICO - PRE/PÓS OPERATÓRIO",
             "0,0"
           ],
           "rowNumber": 157,
@@ -15710,7 +15710,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - OPME",
+            "BLOCO CIRÚRGICO - PRE/PÓS OPERATÓRIO",
             "0,0"
           ],
           "rowNumber": 157,
@@ -15727,7 +15727,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "BLOCO CIRÚRGICO - OPME",
+          "cell": "BLOCO CIRÚRGICO - PRE/PÓS OPERATÓRIO",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -15735,7 +15735,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - OPME",
+            "BLOCO CIRÚRGICO - PRE/PÓS OPERATÓRIO",
             "0,0"
           ],
           "rowNumber": 157,
@@ -15748,7 +15748,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"BLOCO CIRÚRGICO - OPME\" in row \"158\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"BLOCO CIRÚRGICO - PRE/PÓS OPERATÓRIO\" in row \"158\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -15760,7 +15760,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "BLOCO CIRÚRGICO - OPME",
+            "BLOCO CIRÚRGICO - PRE/PÓS OPERATÓRIO",
             "0,0"
           ],
           "rowNumber": 157,
@@ -21985,7 +21985,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIHDOTT",
+            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
             "0,0"
           ],
           "rowNumber": 220,
@@ -22010,7 +22010,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIHDOTT",
+            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
             "0,0"
           ],
           "rowNumber": 220,
@@ -22027,7 +22027,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CIHDOTT",
+          "cell": "CIR - CUIDADO INTERMEDIARIO DE RISCO",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22035,7 +22035,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIHDOTT",
+            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
             "0,0"
           ],
           "rowNumber": 220,
@@ -22048,7 +22048,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CIHDOTT\" in row \"221\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CIR - CUIDADO INTERMEDIARIO DE RISCO\" in row \"221\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22060,7 +22060,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIHDOTT",
+            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
             "0,0"
           ],
           "rowNumber": 220,
@@ -22085,7 +22085,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
+            "CLINICA CIRÚRGICA",
             "0,0"
           ],
           "rowNumber": 221,
@@ -22110,7 +22110,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
+            "CLINICA CIRÚRGICA",
             "0,0"
           ],
           "rowNumber": 221,
@@ -22127,7 +22127,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CIR - CUIDADO INTERMEDIARIO DE RISCO",
+          "cell": "CLINICA CIRÚRGICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22135,7 +22135,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
+            "CLINICA CIRÚRGICA",
             "0,0"
           ],
           "rowNumber": 221,
@@ -22148,7 +22148,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CIR - CUIDADO INTERMEDIARIO DE RISCO\" in row \"222\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA CIRÚRGICA\" in row \"222\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22160,7 +22160,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CIR - CUIDADO INTERMEDIARIO DE RISCO",
+            "CLINICA CIRÚRGICA",
             "0,0"
           ],
           "rowNumber": 221,
@@ -22185,7 +22185,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA",
+            "CLINICA CIRÚRGICA - ALA A",
             "0,0"
           ],
           "rowNumber": 222,
@@ -22210,7 +22210,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA",
+            "CLINICA CIRÚRGICA - ALA A",
             "0,0"
           ],
           "rowNumber": 222,
@@ -22227,7 +22227,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA CIRÚRGICA",
+          "cell": "CLINICA CIRÚRGICA - ALA A",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22235,7 +22235,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA",
+            "CLINICA CIRÚRGICA - ALA A",
             "0,0"
           ],
           "rowNumber": 222,
@@ -22248,7 +22248,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA CIRÚRGICA\" in row \"223\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA CIRÚRGICA - ALA A\" in row \"223\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22260,7 +22260,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA",
+            "CLINICA CIRÚRGICA - ALA A",
             "0,0"
           ],
           "rowNumber": 222,
@@ -22285,7 +22285,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA - ALA A",
+            "CLINICA CIRURGICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 223,
@@ -22310,7 +22310,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA - ALA A",
+            "CLINICA CIRURGICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 223,
@@ -22327,7 +22327,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA CIRÚRGICA - ALA A",
+          "cell": "CLINICA CIRURGICA/HRB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22335,7 +22335,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA - ALA A",
+            "CLINICA CIRURGICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 223,
@@ -22348,7 +22348,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA CIRÚRGICA - ALA A\" in row \"224\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA CIRURGICA/HRB/CHB\" in row \"224\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22360,7 +22360,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRÚRGICA - ALA A",
+            "CLINICA CIRURGICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 223,
@@ -22385,7 +22385,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRURGICA/HRB/CHB",
+            "CLINICA MÉDICA",
             "0,0"
           ],
           "rowNumber": 224,
@@ -22410,7 +22410,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRURGICA/HRB/CHB",
+            "CLINICA MÉDICA",
             "0,0"
           ],
           "rowNumber": 224,
@@ -22427,7 +22427,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA CIRURGICA/HRB/CHB",
+          "cell": "CLINICA MÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22435,7 +22435,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRURGICA/HRB/CHB",
+            "CLINICA MÉDICA",
             "0,0"
           ],
           "rowNumber": 224,
@@ -22448,7 +22448,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA CIRURGICA/HRB/CHB\" in row \"225\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA MÉDICA\" in row \"225\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22460,7 +22460,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA CIRURGICA/HRB/CHB",
+            "CLINICA MÉDICA",
             "0,0"
           ],
           "rowNumber": 224,
@@ -22485,7 +22485,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA",
+            "CLINICA MEDICA - ALA C",
             "0,0"
           ],
           "rowNumber": 225,
@@ -22510,7 +22510,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA",
+            "CLINICA MEDICA - ALA C",
             "0,0"
           ],
           "rowNumber": 225,
@@ -22527,7 +22527,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA MÉDICA",
+          "cell": "CLINICA MEDICA - ALA C",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22535,7 +22535,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA",
+            "CLINICA MEDICA - ALA C",
             "0,0"
           ],
           "rowNumber": 225,
@@ -22548,7 +22548,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA MÉDICA\" in row \"226\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA MEDICA - ALA C\" in row \"226\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22560,7 +22560,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA",
+            "CLINICA MEDICA - ALA C",
             "0,0"
           ],
           "rowNumber": 225,
@@ -22585,7 +22585,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA - ALA C",
+            "CLINICA MÉDICA - ALA E",
             "0,0"
           ],
           "rowNumber": 226,
@@ -22610,7 +22610,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA - ALA C",
+            "CLINICA MÉDICA - ALA E",
             "0,0"
           ],
           "rowNumber": 226,
@@ -22627,7 +22627,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA MEDICA - ALA C",
+          "cell": "CLINICA MÉDICA - ALA E",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22635,7 +22635,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA - ALA C",
+            "CLINICA MÉDICA - ALA E",
             "0,0"
           ],
           "rowNumber": 226,
@@ -22648,7 +22648,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA MEDICA - ALA C\" in row \"227\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA MÉDICA - ALA E\" in row \"227\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22660,7 +22660,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA - ALA C",
+            "CLINICA MÉDICA - ALA E",
             "0,0"
           ],
           "rowNumber": 226,
@@ -22685,7 +22685,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA E",
+            "CLINICA MÉDICA - ALA G",
             "0,0"
           ],
           "rowNumber": 227,
@@ -22710,7 +22710,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA E",
+            "CLINICA MÉDICA - ALA G",
             "0,0"
           ],
           "rowNumber": 227,
@@ -22727,7 +22727,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA MÉDICA - ALA E",
+          "cell": "CLINICA MÉDICA - ALA G",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22735,7 +22735,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA E",
+            "CLINICA MÉDICA - ALA G",
             "0,0"
           ],
           "rowNumber": 227,
@@ -22748,7 +22748,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA MÉDICA - ALA E\" in row \"228\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA MÉDICA - ALA G\" in row \"228\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22760,7 +22760,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA E",
+            "CLINICA MÉDICA - ALA G",
             "0,0"
           ],
           "rowNumber": 227,
@@ -22785,7 +22785,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA G",
+            "CLINICA MEDICA ALA A",
             "0,0"
           ],
           "rowNumber": 228,
@@ -22810,7 +22810,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA G",
+            "CLINICA MEDICA ALA A",
             "0,0"
           ],
           "rowNumber": 228,
@@ -22827,7 +22827,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA MÉDICA - ALA G",
+          "cell": "CLINICA MEDICA ALA A",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22835,7 +22835,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA G",
+            "CLINICA MEDICA ALA A",
             "0,0"
           ],
           "rowNumber": 228,
@@ -22848,7 +22848,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA MÉDICA - ALA G\" in row \"229\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA MEDICA ALA A\" in row \"229\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22860,7 +22860,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MÉDICA - ALA G",
+            "CLINICA MEDICA ALA A",
             "0,0"
           ],
           "rowNumber": 228,
@@ -22885,7 +22885,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA ALA A",
+            "CLÍNICA MÉDICA ALA B",
             "0,0"
           ],
           "rowNumber": 229,
@@ -22910,7 +22910,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA ALA A",
+            "CLÍNICA MÉDICA ALA B",
             "0,0"
           ],
           "rowNumber": 229,
@@ -22927,7 +22927,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA MEDICA ALA A",
+          "cell": "CLÍNICA MÉDICA ALA B",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -22935,7 +22935,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA ALA A",
+            "CLÍNICA MÉDICA ALA B",
             "0,0"
           ],
           "rowNumber": 229,
@@ -22948,7 +22948,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA MEDICA ALA A\" in row \"230\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLÍNICA MÉDICA ALA B\" in row \"230\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -22960,7 +22960,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA ALA A",
+            "CLÍNICA MÉDICA ALA B",
             "0,0"
           ],
           "rowNumber": 229,
@@ -22985,7 +22985,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA B",
+            "CLÍNICA MÉDICA ALA C",
             "0,0"
           ],
           "rowNumber": 230,
@@ -23010,7 +23010,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA B",
+            "CLÍNICA MÉDICA ALA C",
             "0,0"
           ],
           "rowNumber": 230,
@@ -23027,7 +23027,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLÍNICA MÉDICA ALA B",
+          "cell": "CLÍNICA MÉDICA ALA C",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23035,7 +23035,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA B",
+            "CLÍNICA MÉDICA ALA C",
             "0,0"
           ],
           "rowNumber": 230,
@@ -23048,7 +23048,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLÍNICA MÉDICA ALA B\" in row \"231\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLÍNICA MÉDICA ALA C\" in row \"231\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23060,7 +23060,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA B",
+            "CLÍNICA MÉDICA ALA C",
             "0,0"
           ],
           "rowNumber": 230,
@@ -23085,7 +23085,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA C",
+            "CLINICA MEDICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 231,
@@ -23110,7 +23110,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA C",
+            "CLINICA MEDICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 231,
@@ -23127,7 +23127,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLÍNICA MÉDICA ALA C",
+          "cell": "CLINICA MEDICA/HRB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23135,7 +23135,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA C",
+            "CLINICA MEDICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 231,
@@ -23148,7 +23148,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLÍNICA MÉDICA ALA C\" in row \"232\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA MEDICA/HRB/CHB\" in row \"232\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23160,7 +23160,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLÍNICA MÉDICA ALA C",
+            "CLINICA MEDICA/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 231,
@@ -23185,7 +23185,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA/HRB/CHB",
+            "CLINICA ORTOPÉDICA",
             "0,0"
           ],
           "rowNumber": 232,
@@ -23210,7 +23210,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA/HRB/CHB",
+            "CLINICA ORTOPÉDICA",
             "0,0"
           ],
           "rowNumber": 232,
@@ -23227,7 +23227,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA MEDICA/HRB/CHB",
+          "cell": "CLINICA ORTOPÉDICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23235,7 +23235,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA/HRB/CHB",
+            "CLINICA ORTOPÉDICA",
             "0,0"
           ],
           "rowNumber": 232,
@@ -23248,7 +23248,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA MEDICA/HRB/CHB\" in row \"233\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA ORTOPÉDICA\" in row \"233\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23260,7 +23260,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA MEDICA/HRB/CHB",
+            "CLINICA ORTOPÉDICA",
             "0,0"
           ],
           "rowNumber": 232,
@@ -23285,7 +23285,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA ORTOPÉDICA",
+            "CLINICA PEDIÁTRICA",
             "0,0"
           ],
           "rowNumber": 233,
@@ -23310,7 +23310,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA ORTOPÉDICA",
+            "CLINICA PEDIÁTRICA",
             "0,0"
           ],
           "rowNumber": 233,
@@ -23327,7 +23327,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA ORTOPÉDICA",
+          "cell": "CLINICA PEDIÁTRICA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23335,7 +23335,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA ORTOPÉDICA",
+            "CLINICA PEDIÁTRICA",
             "0,0"
           ],
           "rowNumber": 233,
@@ -23348,7 +23348,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA ORTOPÉDICA\" in row \"234\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA PEDIÁTRICA\" in row \"234\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23360,7 +23360,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA ORTOPÉDICA",
+            "CLINICA PEDIÁTRICA",
             "0,0"
           ],
           "rowNumber": 233,
@@ -23385,7 +23385,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PEDIÁTRICA",
+            "CLINICA PNEUMOLÓGICA - ALA D",
             "0,0"
           ],
           "rowNumber": 234,
@@ -23410,7 +23410,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PEDIÁTRICA",
+            "CLINICA PNEUMOLÓGICA - ALA D",
             "0,0"
           ],
           "rowNumber": 234,
@@ -23427,7 +23427,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA PEDIÁTRICA",
+          "cell": "CLINICA PNEUMOLÓGICA - ALA D",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23435,7 +23435,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PEDIÁTRICA",
+            "CLINICA PNEUMOLÓGICA - ALA D",
             "0,0"
           ],
           "rowNumber": 234,
@@ -23448,7 +23448,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA PEDIÁTRICA\" in row \"235\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA PNEUMOLÓGICA - ALA D\" in row \"235\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23460,7 +23460,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PEDIÁTRICA",
+            "CLINICA PNEUMOLÓGICA - ALA D",
             "0,0"
           ],
           "rowNumber": 234,
@@ -23485,7 +23485,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PNEUMOLÓGICA - ALA D",
+            "CLINICA TISIOLÓGICA - ALA G",
             "0,0"
           ],
           "rowNumber": 235,
@@ -23510,7 +23510,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PNEUMOLÓGICA - ALA D",
+            "CLINICA TISIOLÓGICA - ALA G",
             "0,0"
           ],
           "rowNumber": 235,
@@ -23527,7 +23527,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA PNEUMOLÓGICA - ALA D",
+          "cell": "CLINICA TISIOLÓGICA - ALA G",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23535,7 +23535,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PNEUMOLÓGICA - ALA D",
+            "CLINICA TISIOLÓGICA - ALA G",
             "0,0"
           ],
           "rowNumber": 235,
@@ -23548,7 +23548,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA PNEUMOLÓGICA - ALA D\" in row \"236\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CLINICA TISIOLÓGICA - ALA G\" in row \"236\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23560,7 +23560,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA PNEUMOLÓGICA - ALA D",
+            "CLINICA TISIOLÓGICA - ALA G",
             "0,0"
           ],
           "rowNumber": 235,
@@ -23585,7 +23585,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA TISIOLÓGICA - ALA G",
+            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 236,
@@ -23610,7 +23610,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA TISIOLÓGICA - ALA G",
+            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 236,
@@ -23627,7 +23627,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CLINICA TISIOLÓGICA - ALA G",
+          "cell": "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23635,7 +23635,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA TISIOLÓGICA - ALA G",
+            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 236,
@@ -23648,7 +23648,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CLINICA TISIOLÓGICA - ALA G\" in row \"237\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO\" in row \"237\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23660,7 +23660,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CLINICA TISIOLÓGICA - ALA G",
+            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 236,
@@ -23685,7 +23685,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 237,
@@ -23710,7 +23710,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 237,
@@ -23727,7 +23727,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
+          "cell": "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23735,7 +23735,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 237,
@@ -23748,7 +23748,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO\" in row \"238\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO\" in row \"238\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23760,7 +23760,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAIS E ESTERILIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 237,
@@ -23785,7 +23785,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
             "0,0"
           ],
           "rowNumber": 238,
@@ -23810,7 +23810,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
             "0,0"
           ],
           "rowNumber": 238,
@@ -23827,7 +23827,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
+          "cell": "CME - CENTRAL DE MATERIAL ESTERILIZADO",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23835,7 +23835,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
             "0,0"
           ],
           "rowNumber": 238,
@@ -23848,7 +23848,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO\" in row \"239\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAL ESTERILIZADO\" in row \"239\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23860,7 +23860,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL E ESTERELIZAÇÃO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
             "0,0"
           ],
           "rowNumber": 238,
@@ -23885,7 +23885,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 239,
@@ -23910,7 +23910,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 239,
@@ -23927,7 +23927,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CME - CENTRAL DE MATERIAL ESTERILIZADO",
+          "cell": "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -23935,7 +23935,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 239,
@@ -23948,7 +23948,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAL ESTERILIZADO\" in row \"240\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO\" in row \"240\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -23960,7 +23960,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO",
+            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
             "0,0"
           ],
           "rowNumber": 239,
@@ -23985,7 +23985,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
+            "CME ARSENAL",
             "0,0"
           ],
           "rowNumber": 240,
@@ -24010,7 +24010,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
+            "CME ARSENAL",
             "0,0"
           ],
           "rowNumber": 240,
@@ -24027,7 +24027,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
+          "cell": "CME ARSENAL",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24035,7 +24035,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
+            "CME ARSENAL",
             "0,0"
           ],
           "rowNumber": 240,
@@ -24048,7 +24048,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO\" in row \"241\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CME ARSENAL\" in row \"241\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24060,7 +24060,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME - CENTRAL DE MATERIAL ESTERILIZADO/NÚCLEO DE ESTERILIZAÇÃO",
+            "CME ARSENAL",
             "0,0"
           ],
           "rowNumber": 240,
@@ -24085,7 +24085,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME ARSENAL",
+            "CME/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 241,
@@ -24110,7 +24110,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME ARSENAL",
+            "CME/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 241,
@@ -24127,7 +24127,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CME ARSENAL",
+          "cell": "CME/HRB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24135,7 +24135,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME ARSENAL",
+            "CME/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 241,
@@ -24148,7 +24148,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CME ARSENAL\" in row \"242\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"CME/HRB/CHB\" in row \"242\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24160,7 +24160,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME ARSENAL",
+            "CME/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 241,
@@ -24185,7 +24185,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME/HRB/CHB",
+            "COLETA LABORATORIAL",
             "0,0"
           ],
           "rowNumber": 242,
@@ -24210,7 +24210,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME/HRB/CHB",
+            "COLETA LABORATORIAL",
             "0,0"
           ],
           "rowNumber": 242,
@@ -24227,7 +24227,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "CME/HRB/CHB",
+          "cell": "COLETA LABORATORIAL",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24235,7 +24235,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME/HRB/CHB",
+            "COLETA LABORATORIAL",
             "0,0"
           ],
           "rowNumber": 242,
@@ -24248,7 +24248,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"CME/HRB/CHB\" in row \"243\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COLETA LABORATORIAL\" in row \"243\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24260,7 +24260,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "CME/HRB/CHB",
+            "COLETA LABORATORIAL",
             "0,0"
           ],
           "rowNumber": 242,
@@ -24285,7 +24285,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COLETA LABORATORIAL",
+            "COMISSÃO REGIONALIZADA DE CONTRATOS",
             "0,0"
           ],
           "rowNumber": 243,
@@ -24310,7 +24310,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COLETA LABORATORIAL",
+            "COMISSÃO REGIONALIZADA DE CONTRATOS",
             "0,0"
           ],
           "rowNumber": 243,
@@ -24327,7 +24327,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COLETA LABORATORIAL",
+          "cell": "COMISSÃO REGIONALIZADA DE CONTRATOS",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24335,7 +24335,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COLETA LABORATORIAL",
+            "COMISSÃO REGIONALIZADA DE CONTRATOS",
             "0,0"
           ],
           "rowNumber": 243,
@@ -24348,7 +24348,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COLETA LABORATORIAL\" in row \"244\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMISSÃO REGIONALIZADA DE CONTRATOS\" in row \"244\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24360,7 +24360,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COLETA LABORATORIAL",
+            "COMISSÃO REGIONALIZADA DE CONTRATOS",
             "0,0"
           ],
           "rowNumber": 243,
@@ -24385,7 +24385,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REGIONALIZADA DE CONTRATOS",
+            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
             "0,0"
           ],
           "rowNumber": 244,
@@ -24410,7 +24410,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REGIONALIZADA DE CONTRATOS",
+            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
             "0,0"
           ],
           "rowNumber": 244,
@@ -24427,7 +24427,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COMISSÃO REGIONALIZADA DE CONTRATOS",
+          "cell": "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24435,7 +24435,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REGIONALIZADA DE CONTRATOS",
+            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
             "0,0"
           ],
           "rowNumber": 244,
@@ -24448,7 +24448,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COMISSÃO REGIONALIZADA DE CONTRATOS\" in row \"245\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP\" in row \"245\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24460,7 +24460,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REGIONALIZADA DE CONTRATOS",
+            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
             "0,0"
           ],
           "rowNumber": 244,
@@ -24485,7 +24485,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
+            "COMPRAS",
             "0,0"
           ],
           "rowNumber": 245,
@@ -24510,7 +24510,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
+            "COMPRAS",
             "0,0"
           ],
           "rowNumber": 245,
@@ -24527,7 +24527,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
+          "cell": "COMPRAS",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24535,7 +24535,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
+            "COMPRAS",
             "0,0"
           ],
           "rowNumber": 245,
@@ -24548,7 +24548,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP\" in row \"246\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMPRAS\" in row \"246\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24560,7 +24560,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMISSÃO REVISÃO DE PRONTUÁRIOS - CRP",
+            "COMPRAS",
             "0,0"
           ],
           "rowNumber": 245,
@@ -24585,7 +24585,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS",
+            "COMPRAS E CONTRATOS",
             "0,0"
           ],
           "rowNumber": 246,
@@ -24610,7 +24610,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS",
+            "COMPRAS E CONTRATOS",
             "0,0"
           ],
           "rowNumber": 246,
@@ -24627,7 +24627,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COMPRAS",
+          "cell": "COMPRAS E CONTRATOS",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24635,7 +24635,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS",
+            "COMPRAS E CONTRATOS",
             "0,0"
           ],
           "rowNumber": 246,
@@ -24648,7 +24648,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COMPRAS\" in row \"247\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMPRAS E CONTRATOS\" in row \"247\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24660,7 +24660,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS",
+            "COMPRAS E CONTRATOS",
             "0,0"
           ],
           "rowNumber": 246,
@@ -24685,7 +24685,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS E CONTRATOS",
+            "COMPRAS/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 247,
@@ -24710,7 +24710,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS E CONTRATOS",
+            "COMPRAS/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 247,
@@ -24727,7 +24727,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COMPRAS E CONTRATOS",
+          "cell": "COMPRAS/HRB/CHB",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24735,7 +24735,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS E CONTRATOS",
+            "COMPRAS/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 247,
@@ -24748,7 +24748,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COMPRAS E CONTRATOS\" in row \"248\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMPRAS/HRB/CHB\" in row \"248\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24760,7 +24760,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS E CONTRATOS",
+            "COMPRAS/HRB/CHB",
             "0,0"
           ],
           "rowNumber": 247,
@@ -24785,7 +24785,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS/HRB/CHB",
+            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
             "0,0"
           ],
           "rowNumber": 248,
@@ -24810,7 +24810,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS/HRB/CHB",
+            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
             "0,0"
           ],
           "rowNumber": 248,
@@ -24827,7 +24827,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COMPRAS/HRB/CHB",
+          "cell": "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24835,7 +24835,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS/HRB/CHB",
+            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
             "0,0"
           ],
           "rowNumber": 248,
@@ -24848,7 +24848,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COMPRAS/HRB/CHB\" in row \"249\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMUNIDADE COMUNIDADE - ETAPA COZIDA\" in row \"249\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24860,7 +24860,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMPRAS/HRB/CHB",
+            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
             "0,0"
           ],
           "rowNumber": 248,
@@ -24885,7 +24885,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
+            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
             "0,0"
           ],
           "rowNumber": 249,
@@ -24910,7 +24910,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
+            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
             "0,0"
           ],
           "rowNumber": 249,
@@ -24927,7 +24927,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
+          "cell": "COMUNIDADE COMUNIDADE - ETAPA CRUA",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -24935,7 +24935,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
+            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
             "0,0"
           ],
           "rowNumber": 249,
@@ -24948,7 +24948,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COMUNIDADE COMUNIDADE - ETAPA COZIDA\" in row \"250\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMUNIDADE COMUNIDADE - ETAPA CRUA\" in row \"250\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -24960,7 +24960,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA COZIDA",
+            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
             "0,0"
           ],
           "rowNumber": 249,
@@ -24985,7 +24985,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
+            "COMUNIDADE CONDOMÍNIO",
             "0,0"
           ],
           "rowNumber": 250,
@@ -25010,7 +25010,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
+            "COMUNIDADE CONDOMÍNIO",
             "0,0"
           ],
           "rowNumber": 250,
@@ -25027,7 +25027,7 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
-          "cell": "COMUNIDADE COMUNIDADE - ETAPA CRUA",
+          "cell": "COMUNIDADE CONDOMÍNIO",
           "fieldName": "setor_centro_custo",
           "fieldNumber": 4,
           "fieldPosition": 4,
@@ -25035,7 +25035,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
+            "COMUNIDADE CONDOMÍNIO",
             "0,0"
           ],
           "rowNumber": 250,
@@ -25048,7 +25048,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"COMUNIDADE COMUNIDADE - ETAPA CRUA\" in row \"251\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
+          "message": "Type error in the cell \"COMUNIDADE CONDOMÍNIO\" in row \"251\" and field \"setor_centro_custo\" at position \"4\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -25060,7 +25060,7 @@
             "CHPB",
             "2019,0",
             "1,0",
-            "COMUNIDADE COMUNIDADE - ETAPA CRUA",
+            "COMUNIDADE CONDOMÍNIO",
             "0,0"
           ],
           "rowNumber": 250,
