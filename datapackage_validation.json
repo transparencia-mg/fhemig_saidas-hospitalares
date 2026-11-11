@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.145,
+  "time": 0.102,
   "errors": [],
   "tasks": [
     {
@@ -39,8 +39,8 @@
             }
           ]
         },
-        "title": "Insira um título humanamente legível para este recurso.",
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "title": "Saídas Hospitalares",
+        "description": "Saídas Hospitalares",
         "stats": {
           "hash": "e560dae21adda9e28ed8eec0857ff083",
           "bytes": 461664,
@@ -48,7 +48,7 @@
           "rows": 8314
         }
       },
-      "time": 0.137,
+      "time": 0.096,
       "scope": [
         "hash-count-error",
         "byte-count-error",
