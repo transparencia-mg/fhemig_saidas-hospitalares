@@ -2,32 +2,27 @@ name: saidas-hospitalares
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados de saídas hospitalares por unidade FHEMIG divididos por setor (Tasy) ou centro de custo (SIGH).
-    dialect:
-      delimiter: ;
-    encoding: utf-8-sig
+  - path: data/saidas.csv
+    name: saidas
+    profile: tabular-data-resource
+    scheme: file
     format: csv
     hashing: md5
-    name: saidas-2025
-    path: data/saidas-2025.csv
-    profile: tabular-data-resource
+    encoding: utf-8-sig
+    dialect:
+      delimiter: ;
     schema:
       fields:
         - name: unidade
           type: string
-          description: "Siglas das unidades FHEMIG: CSSFA (Casa de Saúde São Francisco de Assis, em Bambuí); CSSFE (Casa de Saúde Santa Fé, em Três Corações); CSSI (Casa de Saúde Santa Izabel, em Betim); CHPB (Centro Hospitalar Psiquiátrico de Barbacena, em Barbacena); HAC (Hospital Alberto Cavalcanti, em Belo Horizonte); HCM (Hospital Cristiano Machado, em Sabará); HEM (Hospital Eduardo de Menezes, em Belo Horizonte); HIJPII (Hospital Infantil João Paulo II, em Belo Horizonte); HJXXIII (Hospital João XXIII, em Belo Horizonte); HJK (Hospital Júlia Kubitschek, em Belo Horizonte); HMAL (Hospital Maria Amélia Lins, em Belo Horizonte); HRAD (Hospital Regional Antônio Dias, em Patos de Minas); HRBJA (Hospital Regional de Barbacena Dr José Américo, em Barbacena); HRJP (Hospital Regional Dr João Penido, em Juiz de Fora); IRS (Instituto Raul Soares, em Belo Horizonte); MOV (Maternidade Odete Valadares, em Belo Horizonte); MGT (MG Transplantes)."
         - name: ano
-          type: integer
-          description: "Ano de referência."
+          type: string
         - name: mes
-          type: integer
-          description: "Mês de referência."
+          type: geopoint
         - name: setor_centro_custo
-          type: integer
-          description: "Setor hospitalar (Tasy) ou Centro de Custo (SIGH)."
+          type: string
         - name: saidas
-          type: integer
-          description: "Saída hospitalar (alta, evasão, desistência, transferência externa ou óbito)."
-    scheme: file
-    title: Saídas hospitalares por unidade FHEMIG
+          type: geopoint
+    title: Insira um título humanamente legível para este recurso.
+    description: Insira a descrição/explicação detalhada deste recurso.
 title: Saídas Hospitalares
